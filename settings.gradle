@@ -1,0 +1,3 @@
+include ':sockjs4droid'
+
+rootProject.name = 'sockjs4droid-root'
